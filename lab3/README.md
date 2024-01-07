@@ -4,6 +4,10 @@
 ```bash
 git clone https://github.com/HomaDev/u-labs1.git
 ```
+Go to repo
+```bash
+cd u-labs1
+```
 
 ## ABS
 
