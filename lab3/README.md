@@ -8,14 +8,13 @@ Go to repo
 ```bash
 cd u-labs1
 ```
-
-## ABS
-
-Go to right direction
+Go to lab3 direction
 
 ```bash
 cd lab3
 ```
+
+## ABS
 
 Build file
 ```bash 
@@ -28,4 +27,14 @@ Run file
 ```
 
 
-### 
+### Max0
+
+Build file
+```bash 
+g++ Max0.cpp -o Max0
+```
+
+Run file
+```bash 
+./Max0
+```
