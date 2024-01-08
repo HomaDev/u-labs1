@@ -3,15 +3,11 @@
 using namespace std;
 
 int main() {
-    int A;
-    int B;
-    cin >> A;
-    cin >> B;
+    int A, B;
+    cin >> A >> B;
     cout << "A = " << A << " | B = " << B << "\n";
     if (A > B) {
-        int i = A;
-        A = B;
-        B = i;
+        swap(A, B);
     }
 
     cout << "A = " << A << " | B = " << B << "\n";
